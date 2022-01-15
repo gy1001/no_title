@@ -6,6 +6,6 @@
   "version": "",
   "dependencies": {
     "browserify": "^16.1.1",
-    "shelljs": "^0.8.1"
+    "shelljs": "^0.8.5"
   }
 }
